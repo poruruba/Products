@@ -2,15 +2,15 @@
 	"questionList": [
 		{
 			"id": 1,
-			"question": "�L�h�H���h�H"
+			"question": "猫派？犬派？"
 		},
 		{
 			"id": 2,
-			"question": "���H�̓p���h�H���єh�H"
+			"question": "朝食はパン派？ご飯派？"
 		},
 		{
 			"id": 3,
-			"question": "���񂱂͂Ԃ���h�H��������h�H"
+			"question": "あんこはつぶあん派？こしあん派？"
 		},
 	]
 }
